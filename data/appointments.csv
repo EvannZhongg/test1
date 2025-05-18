@@ -1,0 +1,11 @@
+id,patient_email,doctor_id,clinic_id,date,time,duration,reason,status
+1,patient1@student.monash.edu,2,1,2025-04-28,10:00,30,Headache,confirmed
+2,patient2@student.monash.edu,1,1,2025-04-29,13:30,30,Fever,confirmed
+3,patient3@student.monash.edu,3,2,2025-05-05,09:00,30,Back Pain,confirmed
+4,patient4@student.monash.edu,4,2,2025-05-29,15:30,30,Checkup,confirmed
+5,patient5@student.monash.edu,2,1,2025-05-10,11:00,30,Flu,confirmed
+6,patient6@student.monash.edu,3,2,2025-05-12,14:00,30,Allergy,confirmed
+7,patient7@student.monash.edu,1,1,2025-05-15,16:30,30,Follow-up,confirmed
+8,patient8@student.monash.edu,4,2,2025-05-15,10:30,30,Vaccination,confirmed
+9,patient9@student.monash.edu,2,1,2025-05-20,09:30,30,Consultation,cancelled by clinic
+10,patient10@student.monash.edu,3,2,2025-05-22,15:00,30,Review,cancelled by clinic

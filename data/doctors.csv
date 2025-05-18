@@ -1,0 +1,6 @@
+id,full_name,email,clinic_id,specialty,availability
+1,Dr. John Smith,john.smith@example.com,1,General Practitioner,"Mon,Tue,Thu,Fri: 9am-5pm"
+2,Dr. Sarah Johnson,sarah.johnson@example.com,1,Pediatrician,"Mon,Wed,Fri: 8am-4pm"
+3,Dr. Michael Chen,michael.chen@example.com,2,General Practitioner,Mon-Fri: 7am-3pm
+4,Dr. Lisa Wong,lisa.wong@example.com,2,Psychologist,"Tue,Thu: 10am-6pm, Sat: 9am-1pm"
+5,Dr. James Wilson,james.wilson@example.com,3,General Practitioner,"Mon,Wed,Fri: 9am-6pm"

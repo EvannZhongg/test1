@@ -1,0 +1,6 @@
+email,password,role,first_name,last_name,dob,gender,mobile,address
+admin@monash.edu,Admin1234!,admin,Admin,User,01/01/1980,Male,0400000000,Admin Office
+patient1@student.monash.edu,Monash1234!,patient,Ma,Yonghao,02/02/1995,Female,0410000000,123
+patient2@student.monash.edu,Monash1234!,patient,Patient,Two,03/03/1996,Male,0422222222,456 Monash St
+1,1,patient,Patient,Three,04/04/1997,Male,0433333333,789 Monash St
+2,2,admin,Admin,User,01/01/1980,Male,0400000000,Admin Office
